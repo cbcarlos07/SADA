@@ -1,0 +1,10 @@
+#main {
+  margin-top: 50px;
+}
+
+input[type="text"]{
+    text-transform: uppercase;
+}
+input[type="email"]{
+    text-transform: uppercase;
+}
